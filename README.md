@@ -1,4 +1,4 @@
-# The Amazing Automatic Kahoot Bot (KBSot)
+# The Amazing Automatic Kahoot Bot (KBot)
 ### *now with functional code*
 People have made bots and things for kahoot in the past, but this is
 a new and improved edition that actually does
