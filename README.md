@@ -13,7 +13,7 @@ some other tools and spammers.
     - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
     - `brew install python`
 - [ ] Clone this project
-  - ``
+  - `https://github.com/Rushh1x/Kbot.git`
 - [ ] Install Dependencies
   - `python3 -m pip install -r requirements.txt`
 - [ ] Run Program
